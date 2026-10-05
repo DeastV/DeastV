@@ -28,9 +28,9 @@ Flask, FastAPI, p5.js, Figma, UI/UX Design, REST APIs
 
 | Project | Domain | Description | Technologies |
 | :--- | :--- | :--- | :--- |
-| **[vaxlogistics-c](https://github.com/DeastV/vaxlogistics-c)** | Systems & Data Structures | High-performance vaccine batch logistics and inoculation tracking engine in C11 with dynamic heap allocation and zero memory leaks. | C11, Memory Management, Valgrind, CLI |
+| **[vaxlogistics-c](https://github.com/DeastV/vaxlogistics-c)** | Systems & Data Structures | Vaccine batch logistics and inoculation tracking engine in C11 with dynamic memory management, linked lists, and zero memory leaks. | C11, Memory Management, Valgrind, CLI |
 | **[distributed-pacman-c](https://github.com/DeastV/distributed-pacman-c)** | Distributed Systems | Multi-client distributed Pacman game using Named Pipes (FIFOs), dedicated worker threads, mutex synchronization, and ncurses. | C17, POSIX Threads, FIFOs, ncurses |
-| **[slitherlink-csp-solver](https://github.com/DeastV/slitherlink-csp-solver)** | Artificial Intelligence | Automated Slitherlink puzzle solver formulated as a CSP with MRV heuristics, Arc Consistency, and Backtracking DFS. | Python 3, CSP, MRV, Tkinter |
+| **[slitherlink-csp-solver](https://github.com/DeastV/slitherlink-csp-solver)** | Artificial Intelligence | Automated Slitherlink puzzle solver formulated as a CSP with domain constraints, loop traversal, and tree search. | Python 3, CSP, DFS, Tkinter |
 | **[libflow-java](https://github.com/DeastV/libflow-java)** | Object-Oriented Systems | Library management application in Java implementing Strategy, Observer, State design patterns, and serialization. | Java 17+, OOP, Design Patterns, SOLID |
 | **[riscv-neural-cpu](https://github.com/DeastV/riscv-neural-cpu)** | Computer Architecture | 8-bit single-cycle CPU architecture in Logisim and a 2-layer forward propagation neural network classifier in RISC-V. | RISC-V, Logisim, CPU Architecture, Assembly |
 
