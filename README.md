@@ -36,6 +36,7 @@ Flask, FastAPI, p5.js, Figma, UI/UX Design, REST APIs
 | **[FP-Python-Games](https://github.com/DeastV/FP-Python-Games)** | Algorithms & Game Engines | Strategic board game engines implementing m,n,k alignment and Orbito orbital mechanics with heuristic AI bots and ADTs. | Python 3, Game Engines, ADTs, Heuristics |
 | **[libflow-java](https://github.com/DeastV/libflow-java)** | Object-Oriented Systems | Library management application in Java implementing Strategy, Observer, State design patterns, and serialization. | Java 17+, OOP, Design Patterns, SOLID |
 | **[vaxlogistics-c](https://github.com/DeastV/vaxlogistics-c)** | Systems & Data Structures | Vaccine batch logistics and inoculation tracking engine in C11 with dynamic heap allocation and zero memory leaks. | C11, Memory Management, Valgrind, CLI |
+| **[riscv-neural-cpu](https://github.com/DeastV/riscv-neural-cpu)** | Computer Architecture | 8-bit single-cycle CPU architecture in Logisim and a 2-layer forward propagation neural network classifier in RISC-V. | RISC-V, Logisim, CPU Architecture, Assembly |
 
 ---
 
