@@ -33,6 +33,7 @@ Flask, FastAPI, p5.js, Figma, UI/UX Design, REST APIs
 | **[projBD](https://github.com/DeastV/projBD)** | Database Systems | Relational database system for zoo management with analytical SQL, query indexing, ACID transactions, and a Flask REST API. | PostgreSQL, Docker, Flask, Python |
 | **[Bake-off-IPM](https://github.com/DeastV/Bake-off-IPM)** | Human-Computer Interaction | Interactive mobile recipe app prototype in Figma and an experimental dense target selection interface in p5.js under Fitts's Law. | Figma, p5.js, JavaScript, Firebase |
 | **[Projeto-SO-1](https://github.com/DeastV/Projeto-SO-1)** | Operating Systems | Concurrent game engine with autonomous monster threads and player navigation synchronized via mutexes on a shared board. | C17, POSIX Threads, Mutexes, ncurses |
+| **[FP-Python-Games](https://github.com/DeastV/FP-Python-Games)** | Algorithms & Game Engines | Strategic board game engines implementing m,n,k alignment and Orbito orbital mechanics with heuristic AI bots and ADTs. | Python 3, Game Engines, ADTs, Heuristics |
 
 ---
 
