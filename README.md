@@ -11,7 +11,7 @@ Focusing on systems programming, concurrency, algorithms, database architecture,
 ## Technologies and Tools
 
 **Languages:**  
-C, Python, Java, JavaScript, RISC-V Assembly, SQL (PostgreSQL), Prolog
+C, Python, Java, JavaScript, RISC-V Assembly, SQL (PostgreSQL), Prolog, R
 
 **Systems and Concurrency:**  
 Linux / POSIX, POSIX Threads (pthreads), Named Pipes (FIFOs), Mutexes, Memory Management, GNU Make, GCC, GDB, Valgrind
@@ -38,6 +38,7 @@ Flask, FastAPI, p5.js, Figma, UI/UX Design, REST APIs
 | **[vaxlogistics-c](https://github.com/DeastV/vaxlogistics-c)** | Systems & Data Structures | Vaccine batch logistics and inoculation tracking engine in C11 with dynamic heap allocation and zero memory leaks. | C11, Memory Management, Valgrind, CLI |
 | **[riscv-neural-cpu](https://github.com/DeastV/riscv-neural-cpu)** | Computer Architecture | 8-bit single-cycle CPU architecture in Logisim and a 2-layer forward propagation neural network classifier in RISC-V. | RISC-V, Logisim, CPU Architecture, Assembly |
 | **[star-battle-prolog](https://github.com/DeastV/star-battle-prolog)** | Logic Programming | Automated Star Battle puzzle solver in SWI-Prolog utilizing constraint propagation, pattern inference, and deductive heuristics. | SWI-Prolog, CLP, Logic AI, Heuristics |
+| **[probability-statistics-r](https://github.com/DeastV/probability-statistics-r)** | Statistical Computing | Exploratory data analysis with ggplot2, Monte Carlo numerical integration, and parametric statistical inference in R. | R, ggplot2, Monte Carlo, Statistical Inference |
 
 ---
 
