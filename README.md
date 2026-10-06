@@ -2,56 +2,36 @@
 
 Computer Science and Engineering student at **[Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt/) — Universidade de Lisboa**.
 
-Focusing on systems programming, concurrency, algorithms, database architecture, and software engineering.
+Focusing on systems programming, concurrency, computer architecture, algorithms, and database systems.
 
 [GitHub](https://github.com/DeastV) • [Email](mailto:davidevasques12@gmail.com) • [Institutional](mailto:davidevasques12@tecnico.ulisboa.pt) • Lisbon, Portugal
 
 ---
 
-## Technologies and Tools
+## Technical Skills
 
-**Languages:**  
-C, Python, Java, JavaScript, RISC-V Assembly, SQL (PostgreSQL), Prolog, R
-
-**Systems and Concurrency:**  
-Linux / POSIX, POSIX Threads (pthreads), Named Pipes (FIFOs), Mutexes, Memory Management, GNU Make, GCC, GDB, Valgrind
-
-**Databases and Infrastructure:**  
-PostgreSQL, Docker, Git, Database Normalization, Connection Pooling, ACID Transactions
-
-**Web and Prototyping:**  
-Flask, FastAPI, p5.js, Figma, UI/UX Design, REST APIs
+* **Languages:** C, Python, Java, SQL (PostgreSQL), RISC-V Assembly, Prolog, R
+* **Systems & Concurrency:** Linux / POSIX, POSIX Threads (`pthread`), Named Pipes (FIFOs), Mutexes, Dynamic Memory Management (`malloc`/`realloc`), GNU Make, GCC, GDB, Valgrind
+* **Databases & Tools:** PostgreSQL, Docker, Git, Schema Normalization, Connection Pooling, ACID Transactions
+* **Web & Prototyping:** Flask, REST APIs, JavaScript, p5.js, Figma
 
 ---
 
-## Featured Projects
+## Featured Systems & Core Projects
 
-| Project | Domain | Description | Technologies |
-| :--- | :--- | :--- | :--- |
-| **[vaxlogistics-c](https://github.com/DeastV/vaxlogistics-c)** | Systems & Data Structures | Vaccine batch logistics and inoculation tracking engine in C11 with dynamic memory management, linked lists, and zero memory leaks. | C11, Memory Management, Valgrind, CLI |
-| **[distributed-pacman-c](https://github.com/DeastV/distributed-pacman-c)** | Distributed Systems | Multi-client distributed Pacman game using Named Pipes (FIFOs), dedicated worker threads, mutex synchronization, and ncurses. | C17, POSIX Threads, FIFOs, ncurses |
-| **[slitherlink-csp-solver](https://github.com/DeastV/slitherlink-csp-solver)** | Artificial Intelligence | Automated Slitherlink puzzle solver formulated as a CSP with domain constraints, loop traversal, and tree search. | Python 3, CSP, DFS, Tkinter |
-| **[libflow-java](https://github.com/DeastV/libflow-java)** | Object-Oriented Systems | Library management application in Java implementing Strategy, Observer, State design patterns, and serialization. | Java 17+, OOP, Design Patterns, SOLID |
-| **[riscv-neural-cpu](https://github.com/DeastV/riscv-neural-cpu)** | Computer Architecture | 8-bit single-cycle CPU architecture in Logisim and a 2-layer forward propagation neural network classifier in RISC-V. | RISC-V, Logisim, CPU Architecture, Assembly |
+* **[vaxlogistics-c](https://github.com/DeastV/vaxlogistics-c)** — Vaccine batch logistics and inoculation tracking engine in C11 with dynamic heap arrays (`realloc`), standard input parsing, and zero memory leaks. `[C11, POSIX, Valgrind, CLI]`
+* **[distributed-pacman-c](https://github.com/DeastV/distributed-pacman-c)** — Multi-client distributed Pacman game using Named Pipes (FIFOs), dedicated worker threads, mutex synchronization, and an interactive ncurses interface. `[C17, POSIX Threads, FIFOs, ncurses]`
+* **[slitherlink-csp-solver](https://github.com/DeastV/slitherlink-csp-solver)** — Automated Slitherlink puzzle solver formulated as a Constraint Satisfaction Problem with domain constraints, closed loop traversal, and depth-first tree search. `[Python 3, CSP, DFS, Tkinter]`
+* **[libflow-java](https://github.com/DeastV/libflow-java)** — Object-oriented library management system implementing Strategy (loan rules), Observer (stock alerts), and State design patterns with Java binary serialization. `[Java 17, OOP, Design Patterns, SOLID]`
+* **[riscv-neural-cpu](https://github.com/DeastV/riscv-neural-cpu)** — Single-cycle 8-bit CPU microarchitecture in Logisim-evolution alongside a 2-layer forward propagation neural network image classifier in RISC-V assembly. `[RISC-V, Assembly, Logisim, CPU Architecture]`
 
 ---
 
-## Other Projects & Academic Systems
+## Other Projects & Coursework
 
-| Project | Domain | Description | Technologies |
-| :--- | :--- | :--- | :--- |
-| **[zoo-management-database](https://github.com/DeastV/zoo-management-database)** | Database Systems | Relational database system for zoo management with analytical SQL, query indexing, ACID transactions, and a Flask REST API. | PostgreSQL, Docker, Flask, Python |
-| **[distributed-pacman-c-part1-](https://github.com/DeastV/distributed-pacman-c-part1-)** | Operating Systems | Concurrent game engine with autonomous monster threads and player navigation synchronized via mutexes on a shared board. | C17, POSIX Threads, Mutexes, ncurses |
-| **[python-strategy-games](https://github.com/DeastV/python-strategy-games)** | Algorithms & Game Engines | Strategic board game engines implementing m,n,k alignment and Orbito orbital mechanics with heuristic AI bots and ADTs. | Python 3, Game Engines, ADTs, Heuristics |
-| **[star-battle-prolog](https://github.com/DeastV/star-battle-prolog)** | Logic Programming | Automated Star Battle puzzle solver in SWI-Prolog utilizing constraint propagation, pattern inference, and deductive heuristics. | SWI-Prolog, CLP, Logic AI, Heuristics |
-| **[probability-statistics-r](https://github.com/DeastV/probability-statistics-r)** | Statistical Computing | Exploratory data analysis with ggplot2, Monte Carlo numerical integration, and parametric statistical inference in R. | R, ggplot2, Monte Carlo, Statistical Inference |
-| **[hci-prototypes-and-benchmarks](https://github.com/DeastV/hci-prototypes-and-benchmarks)** | Human-Computer Interaction | Interactive mobile recipe app prototype in Figma and an experimental dense target selection interface in p5.js under Fitts's Law. | Figma, p5.js, JavaScript, Firebase |
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeastV&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="David's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeastV&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
-</p>
+* **[zoo-management-database](https://github.com/DeastV/zoo-management-database)** — Zoological park database with PostgreSQL integrity triggers, deferred constraint triggers, OLAP analytics (`GROUPING SETS`, `CUBE`), and a Flask REST API with connection pooling. `[PostgreSQL, Docker, Flask, Python]`
+* **[distributed-pacman-c-part1](https://github.com/DeastV/distributed-pacman-c-part1)** — Concurrent Pacman engine featuring autonomous monster threads, condition-variable input dispatching, and in-memory quicksave/restore via POSIX `fork()`. `[C17, POSIX Threads, Mutexes, ncurses]`
+* **[python-strategy-games](https://github.com/DeastV/python-strategy-games)** — Strategy board game engines for m,n,k alignment and Orbito with lookahead rollout simulation bots and mutable matrix ADTs. `[Python 3, Game Engines, ADTs, Heuristics]`
+* **[star-battle-prolog](https://github.com/DeastV/star-battle-prolog)** — Declarative combinatorial solver for Star Battle puzzles in SWI-Prolog utilizing geometric pattern matching and deterministic deductive closures. `[SWI-Prolog, Logic Programming, Heuristics]`
+* **[probability-statistics-r](https://github.com/DeastV/probability-statistics-r)** — Statistical computing workflows in R covering exploratory analysis with ggplot2, Monte Carlo numerical integration, and parametric hypothesis testing. `[R, ggplot2, Monte Carlo, Statistical Inference]`
+* **[hci-prototypes-and-benchmarks](https://github.com/DeastV/hci-prototypes-and-benchmarks)** — Interactive mobile recipe app prototype in Figma and an experimental dense target selection interface in p5.js evaluated under Fitts's Law. `[JavaScript, p5.js, Figma, HCI, UX Research]`
